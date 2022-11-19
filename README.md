@@ -10,3 +10,8 @@
   <li>CSS</li>
   <li>JavaScript</li>
 </ul>
+
+---
+
+<h2> Visualização 👀 </h2>
+<img src="https://user-images.githubusercontent.com/106447484/202868903-6e208892-953f-4add-bdc0-b22714ab424f.png"/>
